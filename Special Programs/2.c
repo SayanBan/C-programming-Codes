@@ -1,5 +1,4 @@
-//Matrix will be a two dimensional array and must be passed to a functions
-by using pointers.
+//Matrix will be a two dimensional array and must be passed to a functions by using pointers.
 
 #include<stdio.h>
 void AddMatrix(int (*a)[100],int (*b)[100],int r1,int c1)
